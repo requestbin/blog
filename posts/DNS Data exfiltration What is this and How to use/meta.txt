@@ -1,1 +1,2 @@
 DNS Data exfiltration — What is this and How to use?
+2022-20-04
