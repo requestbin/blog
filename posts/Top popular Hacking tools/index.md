@@ -6,6 +6,8 @@
 * [Aquatone](https://github.com/michenriksen/aquatone): Aquatone is a tool for visual inspection of websites across a large number of hosts, which provides a convenient overview of HTTP-based attack surface.
 * [Jok3r](https://www.jok3r-framework.com/): Jok3r is a framework that helps penetration testers with network infrastructure and web security assessments. Its goal is to automate as much as possible in order to quickly identify and exploit "low-hanging fruit" and "quick win" vulnerabilities on most common TCP/UDP services and most common web technologies (servers, CMS, languages...).
 
+![ảnh](https://user-images.githubusercontent.com/10446854/166268159-7f28ee8b-8fd0-4511-a9d2-103f23afdc61.png)
+
 # Scanners
 
 * [Nmap](https://nmap.org/): ("Network Mapper") is a free and open-source (license) utility for network discovery and security auditing.
@@ -14,6 +16,8 @@
 * [Nexpose](https://www.rapid7.com/products/nexpose/): Nexpose is a competitor of Nessus.
 * [OpenVAS](https://www.openvas.org/): OpenVAS is a full-featured vulnerability scanner. It's like Nessus and Nexpose but is open-source.
 * [Nuclei](https://github.com/projectdiscovery/nuclei): Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+
+![ảnh](https://user-images.githubusercontent.com/10446854/166268286-feb76eda-d557-4c55-8f8a-426bdc0d501c.png)
 
 # Information garthering
 
@@ -40,6 +44,8 @@
 * [IronWASP](https://resources.infosecinstitute.com/ironwasp-part-1-2/): IronWASP (Iron Web Application Advanced Security testing Platform) is an open-source tool used for web application vulnerability testing. It is designed in such a way that users having the right knowledge can create their own scanners using this as a framework. IronWASP is built using Python and Ruby and users having knowledge of them would be able to make full use of the platform. However, IronWASP provides a lot of features that are simple to understand.
 * [Foxyproxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/): FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities. For a simpler tool and less advanced configuration options, please use FoxyProxy Basic.
 * [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques. 
+
+![ảnh](https://user-images.githubusercontent.com/10446854/166268409-4b1a0059-f2af-484b-83d9-bd87786899cd.png)
 
 # Mobile Hacking
 
