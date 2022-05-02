@@ -1,8 +1,4 @@
-*Summary: To test or exploit blind RCE, XXE,… the first thing which you think usually is outbound connection. Unfortunate, many importance servers are dropped the outbound connection. In such cases, you can use the DNS protocol to exfiltrate data. In this topic, I will talk about that technique. There are 2 parts:*
-
-*1. What is DNS Data exfiltration and how does it work.*
-
-*2. I will introduce my new product (the http://requestbin.net) which have a tool for Data exfiltration through DNS protocol.*
+*Summary: To test or exploit blind RCE, XXE,… the first thing which you think usually is outbound connection. Unfortunate, many importance servers are dropped the outbound connection. In such cases, you can use the DNS protocol to exfiltrate data. In this topic, We will talk about that technique.*
 
 # 1. What is DNS Data exfiltration and how does it work?
 
@@ -47,14 +43,8 @@ In case you are interested in this, please read some bellow artices:
 
 Follow the first part, to use the DNS Data exfiltration, you must at least have a domain and a name server which is setup to dns package inspection. It’s not complicate but not easy for anyone.
 
-So, I have built a website (http://requestbin.net/dns) which supports to check some cases like blind RCE, XXE,.. and supports to send/receive data between outside and inside. And in particular, it’s very easy to use.
+So, I have built a website (https://requestbin.net/dns) which supports to check some cases like blind RCE, XXE,.. and supports to send/receive data between outside and inside. And in particular, it’s very easy to use.
 
 ![ảnh](https://user-images.githubusercontent.com/10446854/164512412-c1e1d77e-e7d4-4882-9260-5af540e48d4c.png)
-
-When visit the website, you maybe feel familiar about the interface. My website is based on requestb.in (https://github.com/Runscope/requestbin) which was down someday before and the code of DNS Data exfiltration is based on DNSBin (https://github.com/HoLyVieR/dnsbin)
-
-In case you’re interested in this code, please visit the repository:
-
-https://github.com/mxcxvn/requestbin.net
 
 Any feedback is welcomed, please contact me at mxcxvn[at]gmail[dot]com
