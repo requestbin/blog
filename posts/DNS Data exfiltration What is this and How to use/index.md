@@ -46,5 +46,3 @@ Follow the first part, to use the DNS Data exfiltration, you must at least have 
 So, I have built a website (https://requestbin.net/dns) which supports to check some cases like blind RCE, XXE,.. and supports to send/receive data between outside and inside. And in particular, it’s very easy to use.
 
 ![ảnh](https://user-images.githubusercontent.com/10446854/164512412-c1e1d77e-e7d4-4882-9260-5af540e48d4c.png)
-
-Any feedback is welcomed, please contact me at mxcxvn[at]gmail[dot]com
