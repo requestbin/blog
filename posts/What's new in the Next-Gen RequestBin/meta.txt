@@ -1,0 +1,2 @@
+What's new in the Next-Gen RequestBin
+2022-05-05
